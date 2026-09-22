@@ -2,9 +2,12 @@ type Location = {
   id: string;
   name: string;
   cropType: string;
+  district: string
   surplusTons: number;
   distanceKm: number;
   riskScore: number;
+  lat: number;
+  lng: number;
 };
 
 type Priorities = {
