@@ -24,3 +24,14 @@ export function rankLocations(locations: Location[], priorities: Priorities) {
     }))
     .sort((a, b) => b.finalScore - a.finalScore);
 }
+export function calculateImpact(surplusTons: number) {
+  const co2SavedKg = surplusTons * 1400;
+  const coSavedKg = surplusTons * 58;
+  const pmSavedKg = surplusTons * 11;
+
+  return {
+    co2SavedTons: (co2SavedKg / 1000).toFixed(1),
+    coSavedKg: coSavedKg.toFixed(0),
+    pmSavedKg: pmSavedKg.toFixed(0),
+  };
+}
