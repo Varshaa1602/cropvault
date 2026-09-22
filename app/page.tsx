@@ -17,3 +17,9 @@ export default function Home() {
     </div>
   );
 }
+<Link
+  href="/calendar"
+  className="mt-3 border border-green-700 text-green-700 px-6 py-3 rounded-lg font-medium hover:bg-green-50"
+>
+  View Crop Calendar
+</Link>

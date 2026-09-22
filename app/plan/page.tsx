@@ -38,6 +38,11 @@ export default function Plan() {
   return (
     <div className="p-8 max-w-4xl mx-auto">
       <h1 className="text-3xl font-bold mb-2">CropVault</h1>
+      <div className="mb-4">
+        <a href="/calendar" className="text-sm text-blue-700 underline">
+           📅 View Tamil Nadu Crop Calendar
+        </a>
+      </div>
       <p className="text-gray-600 mb-6">
         Turning TamilNadu&apos;s surplus crop residue into clean energy plans, district by district.
       </p>

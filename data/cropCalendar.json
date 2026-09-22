@@ -1,0 +1,14 @@
+[
+  { "month": "January", "crops": ["Paddy (harvest)", "Sugarcane (growing)", "Cotton (harvest)"] },
+  { "month": "February", "crops": ["Sugarcane (growing)", "Groundnut (sowing)"] },
+  { "month": "March", "crops": ["Groundnut (growing)", "Sugarcane (growing)"] },
+  { "month": "April", "crops": ["Groundnut (growing)", "Coconut (year-round)"] },
+  { "month": "May", "crops": ["Coconut (year-round)", "Land preparation for Kharif"] },
+  { "month": "June", "crops": ["Paddy (sowing - Kharif)", "Cotton (sowing)"] },
+  { "month": "July", "crops": ["Paddy (growing)", "Cotton (growing)", "Sugarcane (sowing)"] },
+  { "month": "August", "crops": ["Paddy (growing)", "Cotton (growing)"] },
+  { "month": "September", "crops": ["Paddy (growing)", "Cotton (growing)"] },
+  { "month": "October", "crops": ["Paddy (sowing - Rabi/Samba)", "Cotton (growing)"] },
+  { "month": "November", "crops": ["Paddy (growing - Samba)", "Sugarcane (growing)"] },
+  { "month": "December", "crops": ["Paddy (growing - Samba)", "Sugarcane (growing)", "Cotton (harvest begins)"] }
+]
