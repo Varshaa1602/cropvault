@@ -131,6 +131,23 @@ export default function Plan() {
                   <p className="font-semibold text-green-800">{impact.pmSavedKg}kg</p>
                 </div>
               </div>
+              
+             <a href={`https://www.google.com/maps/search/?api=1&query=${loc.lat},${loc.lng}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-1 text-sm text-blue-700 underline mt-3"
+>
+              📍 View on Map
+              </a>
+              <div className="mt-3 rounded-lg overflow-hidden border">
+                <iframe
+                  width="100%"
+                  height="200"
+                  style={{ border: 0 }}
+                  loading="lazy"
+                  src={`https://maps.google.com/maps?q=${loc.lat},${loc.lng}&z=12&output=embed`}
+                  />
+              </div>
 
               <div className="mt-3">
                 {chatOpenId === loc.id ? (

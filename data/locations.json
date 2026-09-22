@@ -1,31 +1,31 @@
 [
-  { "id": "loc1", "name": "Sulur", "district": "Coimbatore", "cropType": "Paddy", "surplusTons": 4200, "distanceKm": 12, "riskScore": 0.75 },
-  { "id": "loc2", "name": "Pollachi", "district": "Coimbatore", "cropType": "Sugarcane", "surplusTons": 3100, "distanceKm": 25, "riskScore": 0.4 },
-  { "id": "loc3", "name": "Mettupalayam", "district": "Coimbatore", "cropType": "Coconut", "surplusTons": 1800, "distanceKm": 18, "riskScore": 0.3 },
-  { "id": "loc4", "name": "Annur", "district": "Coimbatore", "cropType": "Paddy", "surplusTons": 3600, "distanceKm": 15, "riskScore": 0.65 },
-  { "id": "loc5", "name": "Kinathukadavu", "district": "Coimbatore", "cropType": "Cotton", "surplusTons": 2200, "distanceKm": 22, "riskScore": 0.5 },
+  { "id": "loc1", "name": "Sulur", "district": "Coimbatore", "cropType": "Paddy", "surplusTons": 4200, "distanceKm": 12, "riskScore": 0.75, "lat": 11.0245, "lng": 77.1250 },
+  { "id": "loc2", "name": "Pollachi", "district": "Coimbatore", "cropType": "Sugarcane", "surplusTons": 3100, "distanceKm": 25, "riskScore": 0.4, "lat": 10.6588, "lng": 77.0080 },
+  { "id": "loc3", "name": "Mettupalayam", "district": "Coimbatore", "cropType": "Coconut", "surplusTons": 1800, "distanceKm": 18, "riskScore": 0.3, "lat": 11.2994, "lng": 76.9414 },
+  { "id": "loc4", "name": "Annur", "district": "Coimbatore", "cropType": "Paddy", "surplusTons": 3600, "distanceKm": 15, "riskScore": 0.65, "lat": 11.2266, "lng": 77.1064 },
+  { "id": "loc5", "name": "Kinathukadavu", "district": "Coimbatore", "cropType": "Cotton", "surplusTons": 2200, "distanceKm": 22, "riskScore": 0.5, "lat": 10.7333, "lng": 77.0000 },
 
-  { "id": "loc6", "name": "Kumbakonam", "district": "Thanjavur", "cropType": "Paddy", "surplusTons": 5200, "distanceKm": 14, "riskScore": 0.8 },
-  { "id": "loc7", "name": "Pattukkottai", "district": "Thanjavur", "cropType": "Paddy", "surplusTons": 4700, "distanceKm": 20, "riskScore": 0.7 },
-  { "id": "loc8", "name": "Orathanadu", "district": "Thanjavur", "cropType": "Sugarcane", "surplusTons": 2900, "distanceKm": 17, "riskScore": 0.45 },
+  { "id": "loc6", "name": "Kumbakonam", "district": "Thanjavur", "cropType": "Paddy", "surplusTons": 5200, "distanceKm": 14, "riskScore": 0.8, "lat": 10.9602, "lng": 79.3845 },
+  { "id": "loc7", "name": "Pattukkottai", "district": "Thanjavur", "cropType": "Paddy", "surplusTons": 4700, "distanceKm": 20, "riskScore": 0.7, "lat": 10.4265, "lng": 79.3170 },
+  { "id": "loc8", "name": "Orathanadu", "district": "Thanjavur", "cropType": "Sugarcane", "surplusTons": 2900, "distanceKm": 17, "riskScore": 0.45, "lat": 10.6167, "lng": 79.2667 },
 
-  { "id": "loc9", "name": "Melur", "district": "Madurai", "cropType": "Paddy", "surplusTons": 3300, "distanceKm": 19, "riskScore": 0.6 },
-  { "id": "loc10", "name": "Usilampatti", "district": "Madurai", "cropType": "Cotton", "surplusTons": 2100, "distanceKm": 28, "riskScore": 0.5 },
-  { "id": "loc11", "name": "Thirumangalam", "district": "Madurai", "cropType": "Paddy", "surplusTons": 2800, "distanceKm": 16, "riskScore": 0.55 },
+  { "id": "loc9", "name": "Melur", "district": "Madurai", "cropType": "Paddy", "surplusTons": 3300, "distanceKm": 19, "riskScore": 0.6, "lat": 10.0333, "lng": 78.3333 },
+  { "id": "loc10", "name": "Usilampatti", "district": "Madurai", "cropType": "Cotton", "surplusTons": 2100, "distanceKm": 28, "riskScore": 0.5, "lat": 9.9667, "lng": 77.7833 },
+  { "id": "loc11", "name": "Thirumangalam", "district": "Madurai", "cropType": "Paddy", "surplusTons": 2800, "distanceKm": 16, "riskScore": 0.55, "lat": 9.8167, "lng": 77.9833 },
 
-  { "id": "loc12", "name": "Lalgudi", "district": "Trichy", "cropType": "Paddy", "surplusTons": 3900, "distanceKm": 13, "riskScore": 0.7 },
-  { "id": "loc13", "name": "Musiri", "district": "Trichy", "cropType": "Sugarcane", "surplusTons": 2600, "distanceKm": 24, "riskScore": 0.4 },
-  { "id": "loc14", "name": "Manapparai", "district": "Trichy", "cropType": "Cotton", "surplusTons": 1900, "distanceKm": 21, "riskScore": 0.35 },
+  { "id": "loc12", "name": "Lalgudi", "district": "Trichy", "cropType": "Paddy", "surplusTons": 3900, "distanceKm": 13, "riskScore": 0.7, "lat": 10.8667, "lng": 78.8333 },
+  { "id": "loc13", "name": "Musiri", "district": "Trichy", "cropType": "Sugarcane", "surplusTons": 2600, "distanceKm": 24, "riskScore": 0.4, "lat": 10.9500, "lng": 78.4500 },
+  { "id": "loc14", "name": "Manapparai", "district": "Trichy", "cropType": "Cotton", "surplusTons": 1900, "distanceKm": 21, "riskScore": 0.35, "lat": 10.6000, "lng": 78.4167 },
 
-  { "id": "loc15", "name": "Sankagiri", "district": "Salem", "cropType": "Sugarcane", "surplusTons": 3400, "distanceKm": 15, "riskScore": 0.5 },
-  { "id": "loc16", "name": "Attur", "district": "Salem", "cropType": "Paddy", "surplusTons": 2700, "distanceKm": 18, "riskScore": 0.6 },
-  { "id": "loc17", "name": "Mettur", "district": "Salem", "cropType": "Coconut", "surplusTons": 1600, "distanceKm": 22, "riskScore": 0.25 },
+  { "id": "loc15", "name": "Sankagiri", "district": "Salem", "cropType": "Sugarcane", "surplusTons": 3400, "distanceKm": 15, "riskScore": 0.5, "lat": 11.4740, "lng": 77.8800 },
+  { "id": "loc16", "name": "Attur", "district": "Salem", "cropType": "Paddy", "surplusTons": 2700, "distanceKm": 18, "riskScore": 0.6, "lat": 11.5957, "lng": 78.6015 },
+  { "id": "loc17", "name": "Mettur", "district": "Salem", "cropType": "Coconut", "surplusTons": 1600, "distanceKm": 22, "riskScore": 0.25, "lat": 11.7904, "lng": 77.8017 },
 
-  { "id": "loc18", "name": "Bhavani", "district": "Erode", "cropType": "Cotton", "surplusTons": 2400, "distanceKm": 16, "riskScore": 0.45 },
-  { "id": "loc19", "name": "Gobichettipalayam", "district": "Erode", "cropType": "Coconut", "surplusTons": 1500, "distanceKm": 20, "riskScore": 0.2 },
-  { "id": "loc20", "name": "Perundurai", "district": "Erode", "cropType": "Paddy", "surplusTons": 3100, "distanceKm": 12, "riskScore": 0.65 },
+  { "id": "loc18", "name": "Bhavani", "district": "Erode", "cropType": "Cotton", "surplusTons": 2400, "distanceKm": 16, "riskScore": 0.45, "lat": 11.4460, "lng": 77.6850 },
+  { "id": "loc19", "name": "Gobichettipalayam", "district": "Erode", "cropType": "Coconut", "surplusTons": 1500, "distanceKm": 20, "riskScore": 0.2, "lat": 11.4552, "lng": 77.4432 },
+  { "id": "loc20", "name": "Perundurai", "district": "Erode", "cropType": "Paddy", "surplusTons": 3100, "distanceKm": 12, "riskScore": 0.65, "lat": 11.2764, "lng": 77.5833 },
 
-  { "id": "loc21", "name": "Tiruvallur", "district": "Chennai", "cropType": "Paddy", "surplusTons": 2000, "distanceKm": 30, "riskScore": 0.5 },
-  { "id": "loc22", "name": "Ponneri", "district": "Chennai", "cropType": "Paddy", "surplusTons": 1800, "distanceKm": 35, "riskScore": 0.4 },
-  { "id": "loc23", "name": "Uthukottai", "district": "Chennai", "cropType": "Coconut", "surplusTons": 1200, "distanceKm": 40, "riskScore": 0.15 }
+  { "id": "loc21", "name": "Tiruvallur", "district": "Chennai", "cropType": "Paddy", "surplusTons": 2000, "distanceKm": 30, "riskScore": 0.5, "lat": 13.1231, "lng": 79.9120 },
+  { "id": "loc22", "name": "Ponneri", "district": "Chennai", "cropType": "Paddy", "surplusTons": 1800, "distanceKm": 35, "riskScore": 0.4, "lat": 13.3333, "lng": 80.2000 },
+  { "id": "loc23", "name": "Uthukottai", "district": "Chennai", "cropType": "Coconut", "surplusTons": 1200, "distanceKm": 40, "riskScore": 0.15, "lat": 13.3167, "lng": 79.8500 }
 ]
