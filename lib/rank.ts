@@ -35,3 +35,7 @@ export function calculateImpact(surplusTons: number) {
     pmSavedKg: pmSavedKg.toFixed(0),
   };
 }
+export function getDistricts(locations: { district: string }[]) {
+  const unique = Array.from(new Set(locations.map((loc) => loc.district)));
+  return unique.sort();
+}
